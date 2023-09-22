@@ -35,3 +35,17 @@
     
 
 }
+@media ( max-width: 1000px) {
+    .fightarea {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+    .img{
+        width: 300px;
+    }
+    .image {
+        margin-left:0 ;
+    }
+}
